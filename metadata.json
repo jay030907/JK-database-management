@@ -1,0 +1,6 @@
+{
+  "name": "Library Record Lookup",
+  "description": "PostgreSQL-backed student, book, and transaction lookup console by USN, Book ID, and Transaction ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
